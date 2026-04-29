@@ -18,5 +18,7 @@
     "application": False,
     "installable": True,
     "preloadable": True,
+    "price":10.00,
+    "currency":'USD',
 }
 
